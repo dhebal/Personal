@@ -1,5 +1,8 @@
-import urlib3, sys, re
+import sys, re, urllib3
 
 
-print ("Hello")
+def PrintHello():
+    print("definition")
 
+
+PrintHello()
